@@ -20,9 +20,12 @@ Oak Architects is an online portfolio of work designed to show off the architect
 I wanted to experience the process of designing a website for a client. My sister needed a website and I took the opportunity. Whilst the client had input into the design, we both worked through the design aspects together, simulating a real-world experience.
 
 ### Colour Scheme 
+The client wanted to use earthy tones throughout the website. I have added a colour pallet created thorough 
+<!-- add link and image -->
 
 ### Typography
-
+ <!--find font and explain choice -->
+ 
 ## Features
 
 <!-- In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
