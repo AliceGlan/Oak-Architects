@@ -5,8 +5,19 @@
     box-sizing: border-box;
 }
 
+/*general styles */
+
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
 /*Header*/
 
 /*Main content*/
+main {
+    flex: 1 0 auto;
+}
 
 /*Footer*/
