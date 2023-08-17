@@ -11,6 +11,10 @@ Oak Architects' website is designed to be responsive, knowing that users may acc
 <!-- [Responsice Mockup]()
 link to website -->
 
+## User Experience (UX)
+
+Oak Architects is an online portfolio of work designed to show off the architect's skills, personalities, architectural styles, and examples of work. The users of this website will be anyone with an interest in architecture or someone who is seeking architecture services. Images are a big selling point for the page. Users will want to be able to browse previous projects through images of previous work to be able to see if the architects' design is appropriate for their needs. They may want to have more information on the project but not be overwhelmed with too much technical jargon. The user will want to know that they have the required qualification without needing to see their detailed education history, this can be done through the use of an accreditation logo. A user may well be looking for work and want to see how these architects work, who inspires them, and their style. All users that respond to the site in some way will want to contact the practice for advice, questions, or request to have a meeting. This can be done smoothly through a contact form.
+
 ## Features
 
 <!-- In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
