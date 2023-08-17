@@ -1,10 +1,15 @@
 # Oak Architects
 
-<!-- In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
+Oak Architects' site has been designed for two Architects, early in their careers, aspiring to set up their own practice. The site has been designed to communicate to potential clients, who they are, what services they can provide, and a portfolio of their previous work. It is a celebration of them.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. -->
+The target audience for this site will be private potential clients, other architecture firms, and possibly other architects searching for work. As a creative target audience, we have used lots of high-quality imaging. The clients guided their font and colour scheme preferences, whilst also providing the imaging and content they wanted to be displayed.
 
-![Responsice Mockup]()
+The site will allow easy access through images and information, whilst also allowing the user to connect with the business through social media and a contact us page.
+
+Oak Architects' website is designed to be responsive, knowing that users may access and use this website on a range of different devices.
+
+<!-- [Responsice Mockup]()
+link to website -->
 
 ## Features
 
