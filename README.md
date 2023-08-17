@@ -1,19 +1,41 @@
 # Oak Architects
 
-Oak Architects' site has been designed for two Architects, early in their careers, aspiring to set up their own practice. The site has been designed to communicate to potential clients, who they are, what services they can provide, and a portfolio of their previous work. It is a celebration of them.
-
-The target audience for this site will be private potential clients, other architecture firms, and possibly other architects searching for work. As a creative target audience, we have used lots of high-quality imaging. The clients guided their font and colour scheme preferences, whilst also providing the imaging and content they wanted to be displayed.
-
-The site will allow easy access through images and information, whilst also allowing the user to connect with the business through social media and a contact us page.
+Oak Architects' site has been designed for two Architects, early in their careers, aspiring to set up their own practice. The site has been designed to communicate to potential clients, who they are, what services they can provide, and a portfolio of their previous work. It is a celebration of them to build their client base and get themselves clients for their business.
 
 Oak Architects' website is designed to be responsive, knowing that users may access and use this website on a range of different devices.
-
+<!-- insert screen shot  -->
 <!-- [Responsice Mockup]()
 link to website -->
 
 ## User Experience (UX)
 
-Oak Architects is an online portfolio of work designed to show off the architect's skills, personalities, architectural styles, and examples of work. The users of this website will be anyone with an interest in architecture or someone who is seeking architecture services. Images are a big selling point for the page. Users will want to be able to browse previous projects through images of previous work to be able to see if the architects' design is appropriate for their needs. They may want to have more information on the project but not be overwhelmed with too much technical jargon. The user will want to know that they have the required qualification without needing to see their detailed education history, this can be done through the use of an accreditation logo. A user may well be looking for work and want to see how these architects work, who inspires them, and their style. All users that respond to the site in some way will want to contact the practice for advice, questions, or request to have a meeting. This can be done smoothly through a contact form.
+Oak Architects is an online portfolio of work for potential clients or work opportunities. It is a portfolio of work designed to show off the architects' skills, personalities, architectural styles, and examples of work.
+
+Oak Architects are made up of two newly qualified architects with aspirations to start their practice together. They wish to begin by deploying a website that displays their work and skills before fine-tuning their business and its marketing.
+
+### User Stories
+
+#### Client Goals
+
+- To be able to view the site on a range of devices whilst having a similar experience.
+- To communicate to potential clients what services they can provide.
+- To showcase skills and experience through previous projects.
+- To make it easy for the user to see their potential as service providers.
+- To allow potential clients to be able to contact Oak Architects for questions or requests to work with them.
+
+#### First-Time Visitor Goals
+
+- I want to find out who Oak Architects are and what services they offer.
+- I want to see if they have the right accreditation and skills to provide me with a service.
+- I want to find out what services they offer.
+- I want to see some different designs they have been involved with.
+- I want to get in touch with them with some questions.
+
+#### Returning Visitor Goals
+
+- I want to contact the Architects to ask questions or request a meeting to discuss my needs.
+- I want to show images that I am inspired by.
+- I may want to share this site with others.
 
 ## Design
 
@@ -38,6 +60,28 @@ In addition, you may also use this section to discuss plans for additional featu
 
 <!-- - Another feature idea -->
 
+## Technologies Used
+
+### Languages Used 
+
+HTML and CSS
+
+### Frameworks, Libraries and Programs Used
+
+Github - to save and store files for website 
+
+Favicon 
+
+Google Dev tools - 
+
+Font Awsome - 
+
+## Deployment
+
+<!--  This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
+The live link can be found here -  -->
+
 ## Testing
 
 <!--  In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -59,21 +103,24 @@ If this section grows too long, you may want to split it off into a separate fil
 
 <!--  You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. -->
 
-## Deployment
-
-<!--  This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
-The live link can be found here -  -->
-
 ## Credits
 
-<!--  In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. -->
+### Code used
 
 ### Content
 
-<!-- reference where all the content is from, including any tutorials used -->
+The content input in my own words (Alice Ganville) with the direction of Nancy Kimberley and Tom Kimberley.
+
+### Design
+
+- Header and Navigation visual design (<https://www.winterarchitects.uk/?gclid=CjwKCAjwivemBhBhEiwAJxNWNxm8HOVzSJGq8GL_aCxfT_yGHL5jYQJScM7bTfGTRp3qhnvXgDxD3hoCvw8QAvD_BwE>)
+- Navigation headings (<https://www.robertslimbrick.com/> )
+- Design inspiration, my client really liked this website, including features like the hero image use. (<https://www.chalkarchitects.co.uk/>)
 
 ### Media
-<!-- explain where the media (images) are sourced from -->
+
+## Acknowledgements
+
+- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- Accessibility and Meta Tags, by Abigail Harrison webinar (<https://www.youtube.com/watch?v=t-4qqmikIqk>)
+- Kera - readme webinar 
