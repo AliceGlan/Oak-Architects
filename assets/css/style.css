@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Questrial&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
 /* override default styles added by browser*/
 * {
     padding: 0;
@@ -10,10 +12,21 @@
 body {
     display: flex;
     flex-direction: column;
+    color: black;
+    background-color: white;
+    font-family: 'Questrial', sans-serif;
 
 }
 
+
 /*Header*/
+header {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    width: 100%;
+    padding: 20px 40px ;
+    
+}
 
 /*Main content*/
 main {
