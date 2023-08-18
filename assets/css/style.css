@@ -26,7 +26,9 @@ header {
     position: top;
     z-index: 99;
     width: 100%;
-    
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
 }
 
 header a {
@@ -43,6 +45,7 @@ h1 {
     
 }
 
+/*navigation */
 #menu {
     line-height: 1.2;
     letter-spacing: 1px;
@@ -57,8 +60,23 @@ h1 {
 
 .active {
     border-bottom: 1px solid black;
+    border-top: 1px solid black;
 }
 
+nav {
+    position: absolute;
+    background-color: rgba(218, 136, 88, 85);
+    width: 100%;
+    left: 0%;
+    padding: 20px 35px 10px;
+    display: none;
+    
+}
+
+/*nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
 
 /*Main content*/
 main {
