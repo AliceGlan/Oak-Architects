@@ -46,6 +46,7 @@ h1 {
     letter-spacing: 1px;
     font-size: 110%;
     list-style-type: none;
+    display: none;
 }
 
 #menu > li {
@@ -60,11 +61,13 @@ h1 {
 
 nav {
     position: absolute;
-    background-color: rgba(218, 136, 88, 85);
+    background-color: rgba(207, 138, 77, 0.4);
     width: 100%;
     left: 0%;
     padding: 20px 35px 10px;
     z-index: 99;
+    color: white;
+    display: flex;
 }
 
 /*nav toggle*/ 
